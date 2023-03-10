@@ -1,0 +1,27 @@
+#Python'da Veri Tiplerini araştırınız, her bir veri tipi için kendi cümlelerinizle açıklamalar yazınız.
+
+#Pythonda kullanılan en temel veri tipleri şunlardır
+# a = "Kerem" --> String (Yazı veri tipleri için)
+# b = 5 --> Integer (int) (Tam sayı türleri için)
+# c = 1.5 --> Float (kesirli sayılar için)
+#  if(a == b)
+#     return True -->   (Boolean yani mantıksal karşılaştırmalar için True - False)
+# d = [5, 4, 6] --> (Liste veri tipi)
+
+isimler = ('ali', 'ayşe', 'kerem') -->  # tuple
+yaslar = {'ali': '17', 'ayşe': '22', 'kerem': '55'} --> # dictionary
+
+
+
+#Kodlama.io sitesinde değişken olarak kullanıldığını düşündüğünüz verileri, veri tipleriyle birlikte örneklendiriniz.
+# (2023) Yazılım Geliştirici Yetiştirme Kampı - Python & Selenium --> String
+# Ödev1 --> String
+
+
+#Kodlama.io sitesinde şart blokları kullanıldığını düşündüğünüz kısımları örneklendiriniz ve Python dilinde bu örnekleri koda dökünüz.
+a = https://www.kodlama.io/courses/2031025/lectures/45785292
+BitirveDevamEt = True
+if BitirveDevamEt:
+     a = https://www.kodlama.io/courses/yazilim-gelistirici-yetistirme-kampi211/lectures/45785293
+else:
+     break:
